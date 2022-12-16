@@ -1,5 +1,5 @@
 ---------------------------------------------------------
--- e aí, parsa, veio dar uma olhada?
+-- veio dar uma olhada?
 -- não sou o chico xavier da programação
 -- então é claro q o script vai estar cheio de gambiarras
 -- tem alguma crítica p/ dar? fale à vontade
